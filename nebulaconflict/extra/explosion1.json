@@ -1,0 +1,212 @@
+{
+    "frames": [
+        {
+            "filename": "explosion1_0",
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 128,
+                "h": 128
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "explosion1_1",
+            "frame": {
+                "x": 128,
+                "y": 0,
+                "w": 128,
+                "h": 128
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "explosion1_2",
+            "frame": {
+                "x": 256,
+                "y": 0,
+                "w": 128,
+                "h": 128
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "explosion1_3",
+            "frame": {
+                "x": 384,
+                "y": 0,
+                "w": 128,
+                "h": 128
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "explosion1_4",
+            "frame": {
+                "x": 0,
+                "y": 128,
+                "w": 128,
+                "h": 128
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "explosion1_5",
+            "frame": {
+                "x": 128,
+                "y": 128,
+                "w": 128,
+                "h": 128
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "explosion1_6",
+            "frame": {
+                "x": 256,
+                "y": 128,
+                "w": 128,
+                "h": 128
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "explosion1_7",
+            "frame": {
+                "x": 384,
+                "y": 128,
+                "w": 128,
+                "h": 128
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "explosion1_8",
+            "frame": {
+                "x": 0,
+                "y": 256,
+                "w": 128,
+                "h": 128
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "explosion1_9",
+            "frame": {
+                "x": 128,
+                "y": 256,
+                "w": 128,
+                "h": 128
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "explosion1_10",
+            "frame": {
+                "x": 256,
+                "y": 256,
+                "w": 128,
+                "h": 128
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "explosion1_11",
+            "frame": {
+                "x": 384,
+                "y": 256,
+                "w": 128,
+                "h": 128
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "explosion1_12",
+            "frame": {
+                "x": 0,
+                "y": 384,
+                "w": 128,
+                "h": 128
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "explosion1_13",
+            "frame": {
+                "x": 128,
+                "y": 384,
+                "w": 128,
+                "h": 128
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "explosion1_14",
+            "frame": {
+                "x": 256,
+                "y": 384,
+                "w": 128,
+                "h": 128
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "explosion1_15",
+            "frame": {
+                "x": 384,
+                "y": 384,
+                "w": 128,
+                "h": 128
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        }
+    ]
+}

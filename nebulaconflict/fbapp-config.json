@@ -1,0 +1,9 @@
+{
+    "instant_games": {
+        "property_1": "VALUE A",
+        "property_2": "VALUE B",
+        "orientation": "PORTRAIT",
+        "override_web_orientation": "PORTRAIT",
+        "navigation_menu_version": "NAV_FLOATING"
+    }
+  }
